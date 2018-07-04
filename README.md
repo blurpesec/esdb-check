@@ -22,7 +22,7 @@ npm install esdb-check
 
 ###### Output:
 
-Outputs come in the form of a JSON file which is the exact output of the etherscamdb check API endpoint. I recommend checking for the output.result.
+Outputs come in the form of a JSON object which is the exact output of the etherscamdb check API endpoint.
 
 For domains:
 ```

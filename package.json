@@ -6,6 +6,11 @@
   "scripts": {
     "test": "node check.js"
   },
+  "repository" :
+  {
+    "type" : "git",
+    "url" : "https://github.com/hahnmichaelf/esdb-check.git"
+  },
   "keywords": [
     "ethereum",
     "etherscamdb",

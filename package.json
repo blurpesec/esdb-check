@@ -1,6 +1,6 @@
 {
   "name": "esdb-check",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Package to wrap the /check/<domain, ip, eth addr> api for etherscamdb.info",
   "main": "check.js",
   "scripts": {

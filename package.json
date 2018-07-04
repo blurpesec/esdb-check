@@ -1,0 +1,24 @@
+{
+  "name": "esdb-check",
+  "version": "1.0.0",
+  "description": "Package to wrap the /check/<domain, ip, eth addr> api for etherscamdb.info",
+  "main": "check.js",
+  "scripts": {
+    "test": "node check.js"
+  },
+  "keywords": [
+    "ethereum",
+    "etherscamdb",
+    "esdb",
+    "phishing",
+    "security",
+    "eth",
+    "api"
+  ],
+  "author": "blurpesec",
+  "license": "MIT",
+  "dependencies": {
+    "json": "^9.0.6",
+    "request": "^2.87.0"
+  }
+}

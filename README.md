@@ -29,6 +29,10 @@ For domains:
 { success: true, input: 'mycrypto.com', result: 'verified' }
 ```
 
+```
+{ success: true, input: 'idexmarket-incs.com', result: 'blocked', type: 'domain', entries: [ { id: 4286,name: 'idexmarket-incs.com',url: 'https://idexmarket-incs.com',category: 'Phishing',subcategory: 'Idex',description: 'Fake IDEX market phishing for keys',status: 'Offline' } ] }
+```
+
 For eth addresses:
 ```
 {"success":true,"result":"blocked","type":"address","entries":[{"id":4403,"name":"freeethpromo.com","url":"http://freeethpromo.com","category":"Scamming","subcategory":"Trust-Trading","description":"Trust-Trading site","addresses":["0xcf1d62627baf1a84bed11e30cf6cdae0f1b5c296"],"ip":"185.224.137.165","nameservers":["ns3.hostinger.com","ns2.hostinger.com","ns1.hostinger.com","ns4.hostinger.com"],"status":"Active"}]}
